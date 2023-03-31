@@ -1,0 +1,23 @@
+body{
+    background-color: beige;
+}
+
+h1{
+    font-family: Tahoma;
+}
+
+h2,h3{
+    font-family: Verdana;
+}
+
+a{
+    color: black;
+}
+
+li{
+    font-size: larger;
+    font-family: Helvetica, sans-serif;
+    text-align: justify;
+    width: 800px;
+    overflow-x: auto;
+}
